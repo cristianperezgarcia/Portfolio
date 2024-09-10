@@ -14,7 +14,7 @@
 
 ## Proyectos Destacados
 
-### 1. [Machine Learning](https://github.com/cristianjperez12/Machine-Learning)
+### 1. [Machine Learning](https://github.com/cristianperezgarcia/Machine-Learning)
 
 **Descripción**: En este proyecto se desarrollan distintos métodos de Machine Learning en IPNB con Python, incluyendo métodos de regresión lineal, logística, clasificación, y redes neuronales.
 
@@ -25,7 +25,7 @@
 - Métodos de clasificación
 - Redes Neuronales
 
-### 2. [Simulación de activo financiero](https://github.com/cristianjperez12/R)
+### 2. [Simulación de activo financiero](https://github.com/cristianperezgarcia/R)
 
 **Descripción**: Simulación de la variación de un activo financiero usando cadenas de Markov, considerando los estados del mercado: sube, se mantiene, baja; y los estados de las noticias: positivo, neutro, negativo.
 
@@ -36,7 +36,7 @@
 - Procesos estocásticos
 - Librería Markovchain en R-Studio
 
-### 3. [Efecto del COVID-19 en BICIMAD](https://github.com/cristianjperez12/Python)
+### 3. [Efecto del COVID-19 en BICIMAD](https://github.com/cristianperezgarcia/Python)
 
 **Descripción**: Análisis del impacto del COVID-19 en el uso de BICIMAD en Madrid comparando datos de las navidades de 2019 y 2020.
 
